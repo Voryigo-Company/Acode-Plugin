@@ -1,0 +1,28 @@
+{
+  "id": "pawno-editor",
+  "name": "Pawn-Leaguage",
+  "main": "main.js",
+  "version": "0.0.1",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [
+    "pawncc/pawncc.js",
+    "pawncc/pawncc.wasm",
+    ".pawn/compiler.json",
+  ],
+  "minVersionCode": 965,
+  "keywords": [
+    "pawn",
+    "sa-mp",
+    "open.mp",
+    "snippets",
+    "highlight",
+    "autocomplete",
+    "compiler"
+  ],
+  "license": "MIT",
+  "price": 0,
+  "author": {
+    "name": "Pawn-Leaguage"
+  }
+}
