@@ -1,0 +1,7 @@
+{
+    "input": "gamemodes/server.pwn",
+    "output": "gamemodes/server.amx",
+    "includes": [
+        "pawno/include"
+    ]
+}
